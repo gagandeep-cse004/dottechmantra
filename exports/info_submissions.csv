@@ -1,0 +1,6 @@
+id,created_at,institute_name,email,phone,service_interested_in,message
+7,2025-10-14T10:33:53.008463+00:00,Test Institute,test@example.com,0000000000,Some Service,Hello
+6,2025-10-14T09:08:45.266347+00:00,Test Institute 2025-10-14T09:08:43.812Z,test+1760432923815@example.com,0000000000,test-service,Inserted by check_supabase script at 2025-10-14T09:08:43.812Z
+5,2025-10-14T08:58:32.639802+00:00,Test Institute 2025-10-14T08:58:31.385Z,test+1760432311387@example.com,0000000000,test-service,Inserted by check_supabase script at 2025-10-14T08:58:31.385Z
+3,2025-10-14T08:51:18.564237+00:00,Test Institute 2025-10-14T08:51:17.201Z,test+1760431877204@example.com,0000000000,test-service,Inserted by check_supabase script at 2025-10-14T08:51:17.201Z
+2,2025-10-14T08:39:49.326152+00:00,Test Institute 2025-10-14T08:39:47.530Z,test+1760431187532@example.com,0000000000,test-service,Inserted by check_supabase script at 2025-10-14T08:39:47.530Z

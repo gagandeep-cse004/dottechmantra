@@ -1,0 +1,31 @@
+{
+  "site": {
+    "name": "Dot TechMantra",
+    "mission": "From Chalk Board to Digital Board — helping educators and institutes move online with quality digital tools and training."
+  },
+  "founder": {
+    "name": "Founder Name",
+    "bio": "Founder Name is a passionate ed-tech entrepreneur with X years of experience in digital learning, product design and teacher training. Update this file with full biography, contact details, achievements and roles.",
+    "email": "founder@example.com",
+    "linkedin": "https://www.linkedin.com/in/founder"
+  },
+  "team": [
+    {
+      "name": "Employee One",
+      "role": "Lead Developer",
+      "bio": "Brief bio of Employee One."
+    },
+    {
+      "name": "Employee Two",
+      "role": "Education Specialist",
+      "bio": "Brief bio of Employee Two."
+    }
+  ],
+  "guided_steps": [
+    "Step 1: Gather content and goals for the chatbot (collect founder & employee bios, service descriptions, FAQs).",
+    "Step 2: Create or update chatbot_knowledge.json with all founder, team and product information.",
+    "Step 3: Deploy server with OPENAI_API_KEY set; test /api/chat with sample prompts.",
+    "Step 4: Tune system prompt and add example Q/A pairs to the knowledge file if needed.",
+    "Step 5: Optionally enable a vector store for long-term memory and better retrieval (advanced)."
+  ]
+}
